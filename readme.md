@@ -1,6 +1,6 @@
 # GOLTC Data Science Interest Group: Webinar 23rd May 2023
 
-This is the repo for the meeting of the [Global Observatory of Long-Term Care Data Science interest group](https://goltc.org/interest-group/data-science/). It contains links to the papers being presented and their respective GitHub repos. It also the Quarto and html files for the introductory presentation.
+This is the repo for the meeting of the [Global Observatory of Long-Term Care Data Science interest group](https://goltc.org/interest-group/data-science/) on 23rd May 2023. It contains links to the papers being presented and their respective GitHub repos. It also the Quarto and html files for the introductory presentation.
 
 ## Analysing accuracy, balancing bias: Can ChatGPT be used to ease the care documentation burden?
 
