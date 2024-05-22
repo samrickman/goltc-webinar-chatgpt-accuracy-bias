@@ -1,0 +1,66 @@
+---
+title: "Analysing accuracy, balancing bias: Can ChatGPT be used to ease the care documentation burden?"
+subtitle: "GoLTC Data Science Group"
+date: 23 May 2023
+date-format: "MMMM YYYY"
+format: 
+    revealjs:
+        reference-location: document
+        theme: [styles.scss, night]
+        transition: slide
+        center: true
+        incremental: false
+        smaller: false
+        self-contained: true
+        slide-number: false
+title-slide-attributes:
+    data-background-image: "./img/goltc-logo.png"
+    data-background-size: 330px
+    data-background-opacity: "number"
+    data-background-position: "95.5% 96%"
+---
+
+# GOLTC Data Science {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
+
+- _GOLTC Introduction_ [Adelina Comas-Herrera]{.smallfont}
+- _Data Science Interest Group: Structure and webinars_
+    - [Steering Group: Sam Rickman (CPEC at LSE), Jiyoun Song (UPenn), Tommy Henderson-Reay (NHS England), Sarthak Saluja (CPEC at LSE)]{.smallfont}
+- _Racial disparities and harmful hallucinations in automated speech recognition_ [Allison Koenecke, Cornell Department of Information Science]{.smallfont}
+- _Adapted large language models can outperform medical experts in clinical text summarization_ [Dave Van Veen, Stanford Center for Artificial Intelligence]{.smallfont}
+
+# Generative AI in public services {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
+
+::::: {.columns}
+
+:::: {.column width="70%"}
+
+![](./headlines.png)
+
+::::
+
+:::: {.column width="30%"}
+
+- US Executive Order on AI _Oct 2023_
+- Bletchley Park AI Safety Declaration Summit _Nov 2023_ 
+- European Council approves EU AI Act _Feb 2024_
+
+::::
+
+:::::
+
+# Context {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
+
+- Today: policy context of generative AI and its use in practice
+- Future webinars: evaluating accuracy, bias and ethics
+- General: resources and papers on GOLTC Data Science website
+
+
+
+
+# Today's webinar: moderated discussion {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
+
+- Practical questions
+- Accuracy and bias
+- Ethics and information governance
+- Other areas
+- Comments

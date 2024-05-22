@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+/*
+Not entirely clear what all the options are
+but a lot of them are here:
+https://github.com/quarto-dev/quarto-cli/blob/5f760c5e0d76f87c8910ba07d8b633fb2155a899/src/resources/formats/html/bootstrap/_bootstrap-variables.scss
+*/
+
+//$body-bg: #38393b;
+$body-bg: #0e1117;
+$body-color: #fff;
+$link-color: #42affa;
+$presentation-h1-font-size: 1.5;
+$presentation-font-size-root:	30px;
+$code-block-font-size: 20px;
+
+
+/*-- scss:rules --*/
+
+.reveal p {
+  display: block;
+  margin: .5em;
+  height: auto; }
+
+.smallfont {
+    font-size: 0.8em;
+    text-align: "center";
+  }
+
+  .center h2 {
+    text-align: center;
+  }
+ .svgmontserrat {
+  font-family: "Montserrat", sans-serif;
+}
