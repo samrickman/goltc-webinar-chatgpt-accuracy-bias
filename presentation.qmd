@@ -50,7 +50,7 @@ title-slide-attributes:
 
 :::::
 
-# Case study: Magic Notes {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
+# Case study: Magic Notes from Beam {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
 
 1.	Conversation is recorded using a worker’s phone.
 2.	This audio file is transcribed into text using an AI speech-to-text model.
