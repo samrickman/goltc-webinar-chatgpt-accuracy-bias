@@ -10,9 +10,9 @@ But how reliable are these tools? There can be racial disparities in automatic s
 
 Webinar details:
 
--	Date: Thursday 23 May 2024
--	Time: 15:30 – 16:45 BST | 10:30 – 11:45 EDT (check your local time here)
--	Link: Register to join us on Zoom.
+- Date: Thursday 23 May 2024
+- Time: 15:30 – 16:45 BST | 10:30 – 11:45 EDT (check your local time here)
+- Link: Register to join us on Zoom.
 
 The webinar will cover:
 
@@ -27,13 +27,19 @@ The webinar will cover:
 
 ## Links to GitHub repos
 
-1.	[Racial Disparities in Automated Speech Recognition](https://github.com/stanford-policylab/asr-disparities)
-2.	[Careless Whisper: Speech to Text Hallucinations](https://github.com/koenecke/hallucination_harms)
-3.	[Clinical Text Summarization by Adapting LLMs](https://github.com/StanfordMIMI/clin-summ)
+1. [Racial Disparities in Automated Speech Recognition](https://github.com/stanford-policylab/asr-disparities)
+2. [Careless Whisper: Speech to Text Hallucinations](https://github.com/koenecke/hallucination_harms)
+3. [Clinical Text Summarization by Adapting LLMs](https://github.com/StanfordMIMI/clin-summ)
 
+# Links to newspaper articles
+
+These are the articles mentioned in the introductory presentation:
+
+1. Lohr, S., 2023. [A.I. May Someday Work Medical Miracles. For Now, It Helps Do Paperwork](https://www.nytimes.com/2023/06/26/technology/ai-health-care-documentation.html) New York Times, 26 June 2023.
+2. Wilcock, D., 2024. [Civil servants will be replaced by AI chatbots](https://www.dailymail.co.uk/news/article-13141169/Civil-servants-replaced-AI-chatbots-Oliver-Dowden.html), Daily Mail, 29 February 2024.
+3. Tapper, G., 2024 [Warning over use in UK of unregulated AI chatbots to create social care plans](https://www.theguardian.com/technology/2024/mar/10/warning-over-use-in-uk-of-unregulated-ai-chatbots-to-create-social-care-plans), The Guardian, 10 March 2024.
 
 ## Bibtex citations of papers
-
 
 ```
 @article{koenecke2020racial,

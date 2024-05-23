@@ -50,13 +50,19 @@ title-slide-attributes:
 
 :::::
 
+# {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
+
+![](./img/newspapers.png)
+
 # Case study: Magic Notes from Beam {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
 
 1.	Conversation is recorded using a worker’s phone.
 2.	This audio file is transcribed into text using an AI speech-to-text model.
 3.	This transcript is summarised into a record of the meeting using an AI summarisation model, such as GPT4.
 
-# Today's webinar: moderated discussion {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
+# Today's webinar {background-image="./img/goltc-logo.png" background-size="330px" background-repeat="no-repeat" background-position="95.5% 96%"}
 
 1. Disparities in automated speech recognition ([Allison Koenecke](https://koenecke.infosci.cornell.edu/#research), Cornell Department of Information Science)
 2. Adapted large language models can outperform medical experts in clinical text summarization ([Dave Van Veen](https://davevanveen.com/), Stanford Center for Artificial Intelligence)
+
+Each presentations will be around 20 minutes, followed by 10 minutes of questions.
