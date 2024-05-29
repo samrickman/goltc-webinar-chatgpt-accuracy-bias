@@ -4,7 +4,7 @@ This is the repo for the meeting of the [Global Observatory of Long-Term Care Da
 
 ## Analysing accuracy, balancing bias: Can ChatGPT be used to ease the care documentation burden?
 
-Care managers dedicate 6 hours per week transcribing handwritten notes from meetings into electronic databases. LLMs are now being used to automatically generate audio recordings of case management meetings into case notes, freeing up workers to spend more time assessing needs and arranging care. We saw an example of this in Magic Notes, a product from [Beam](https://beam.org/), that they presented at our webinar on 23rd May 2023 ([video](https://goltc.org/videos/beyond-words-can-chatgpt-ease-the-care-documentation-burden-12-march-2024-webinar-recording/)).
+Care managers dedicate 6 hours per week transcribing handwritten notes from meetings into electronic databases. LLMs are now being used to automatically generate audio recordings of case management meetings into case notes, freeing up workers to spend more time assessing needs and arranging care. We saw an example of this in Magic Notes, a product from [Beam](https://beam.org/), that they presented at our webinar on 12 March 2024 ([video](https://goltc.org/videos/beyond-words-can-chatgpt-ease-the-care-documentation-burden-12-march-2024-webinar-recording/)).
 
 But how reliable are these tools? There can be racial disparities in automatic speech recognition. They can record false information, including harmful and violent hallucinations. And how do we quantify the accuracy of free text summaries generated from these transcriptions?
 
